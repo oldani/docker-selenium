@@ -1,5 +1,4 @@
-FROM selenium/node-chrome:2.53.0
-MAINTAINER Selenium <selenium-developers@googlegroups.com>
+FROM ordanis24/chrome-node
 
 USER root
 
