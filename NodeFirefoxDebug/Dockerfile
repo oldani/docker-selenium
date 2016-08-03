@@ -1,5 +1,4 @@
-FROM selenium/node-firefox:2.53.0
-MAINTAINER Selenium <selenium-developers@googlegroups.com>
+FROM ordanis24/firefox-node
 
 USER root
 
